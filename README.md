@@ -1,4 +1,4 @@
-# Delta AutoML 應用程式
+#AutoML 應用程式
 
 這個專案提供一個 **Streamlit** 構建的網頁介面，可讓使用者透過幾個簡單步驟完成資料上傳、資料探索、模型訓練、模型下載與預測。內部使用 [PyCaret](https://pycaret.org/) 進行自動化機器學習，並使用 ydata‑profiling 生成資料報告。
 
